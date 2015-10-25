@@ -1,0 +1,23 @@
+{
+  "name": "pev",
+  "version": "1.0.0",
+  "description": "Promised Event",
+  "main": "pev.js",
+  "keywords": [
+    "event",
+    "promise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Narazaka/pev.js.git"
+  },
+  "author": "narazaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Narazaka/pev.js/issues"
+  },
+  "homepage": "https://github.com/Narazaka/pev.js",
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}

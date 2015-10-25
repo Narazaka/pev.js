@@ -1,0 +1,19 @@
+{
+  "name": "pev",
+  "version": "1.0.0",
+  "authors": [
+    "Narazaka <info@narazaka.net>"
+  ],
+  "description": "Promised Event",
+  "keywords": ["event", "promise"],
+  "main": "pev.js",
+  "license": "MIT",
+  "homepage": "https://github.com/Narazaka/pev.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
